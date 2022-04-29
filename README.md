@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thomas
 - 👀 I’m interested in Creating new things
 - 🌱 I’m currently learning Nodejs and mongoDB
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to work on game industry
 - 📫 How to reach me, just mail me on thomasmesi2003@gmail.com
 
 <!---
